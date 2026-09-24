@@ -1,0 +1,10 @@
+Write down short answers
+
+1. In your own words, what problem does Bootstrap solve for a web designer?
+    It helps save a lot of time setting up a new project by providing a ready to use template of css and js to be able to let bootstrap handle the heavy and repetitive work.
+
+2. What is a breakpoint? What width does the md breakpoint start at?..I know you know!
+    Breakpoints are used to make websites responsive depending on the width of the device. The md breakpoint starts at 768.
+
+3. Name three components you would use on a portfolio or social media campaign site, and why.
+    I would use a navbar because I feel every website should have one as it is a vital part of the user experience. A carousel would also be part of the site because it is a simple and friendly way of displaying images. And finally, I would incorporate spinners because I consider they can help make loading screens feel more alive.
