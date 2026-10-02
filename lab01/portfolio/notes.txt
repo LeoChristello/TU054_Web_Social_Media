@@ -1,0 +1,9 @@
+1.	Navbar experiments (Step 9): For A, B and C, what happened and why? Include both switch widths from experiment A.
+There are no A, B, and C on step 9, but after adding the code you provided I was confused as to why it was not displaying the navbar. As you explained at the end, it was because both the font colour and the background were a very similar colour. As for switching the widths, I was able to see how the content adapt from mobile version, to desktop, to then remained centered at a max width of 1100px.
+
+2.	Footer (Step 14): What happened when you deleted flex: 1? What do you think it does?
+Deleting it caused the footer to start right after 'main' ended, leaving a significant amount of white space after it. I played around with it and noticed it can have a functional value between 0 and 1, whereas 1 would cause it to stick to the bottom of the page, and other values such as 0.5 would cause it to stay vertically centered between the end of 'main' and the bottom of the page.
+
+
+3.	Two layouts: Two things in your code switch at 768px. What are they?
+My navbar and my footer.
