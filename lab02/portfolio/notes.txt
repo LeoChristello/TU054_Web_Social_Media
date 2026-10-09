@@ -1,0 +1,25 @@
+Fonts: Syne, Lato.
+
+My turn tasks: I did all three. Task 1 and 2 can be observed in the code. As for task 3, I tried the Archivo font but I preferred to keep the one I chose originally.
+
+Unfortunately it is not possible to paste an image of the tasks on this .txt file but they can be observed in index.html.
+
+
+******************************************
+    LAB 02
+******************************************
+
+1. Why does the hero image path in CSS start with ../ but the profile image path in HTML doesn't? (Step 7, Experiment C)
+Because the link in the CSS file has to go up a directory to be able to locate the image. The profile image is linked from the index.html file so the relative position changes.
+
+2. What happened when you misspelled your font name, and why? (Step 3)
+Chrome defaulted to Arial font because it wasn't able to find the font I had mistyped.
+
+3. What did your icons look like before you styled them, and why? (Step 13)
+My icons matched the font size and weight of h3 because they inherited the text styling from h3.
+
+4. In your own words, what do align-items and justify-content each control? (Step 7)
+Vertical position is controlled by align-items and horizontal position is controlled by justify-content.
+
+5. Which line of CSS puts your About photo beside the text on desktop? Which puts each skill name beside its sentence?
+The line that puts the photo beside the text is display:flex which is inherited from the about class. For skills, it is the class .skills li which contains the property display:flex.
