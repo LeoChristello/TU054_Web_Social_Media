@@ -1,0 +1,10 @@
+
+
+
+
+
+******************************************
+    LAB 03
+******************************************
+
+I expected 2fr to take double the space as 1fr but I didn't expect it 
