@@ -1,10 +1,15 @@
-
-
-
-
-
 ******************************************
     LAB 03
 ******************************************
 
-I expected 2fr to take double the space as 1fr but I didn't expect it 
+Q1: What did 1fr 2fr do?
+It made the second column twice as big as the first one. I expected that, but I was not expecting the row to look twice as tall, but because img width is 100% it expanded to fill all the empty space.
+
+Q2: What happened when you deleted object-fit: cover ? So what does that line do?
+Deleting object-fit forced the image to fill up the entire space, making it look very stretched. This property can crop parts of the image to make it fit in a space without modifying its original proportions, which prevents it from looking stretched.
+
+Q3: Why do four columns suit eight photos better than three?
+Because they fill up all the columns and rows evenly without leaving spaces incomplete.
+
+Q4: Why didn't you need to write display: grid; again inside @media ?
+Because I already specified it outside @media, so I only needed to change the properties that need to look different. The rest of them stayed the same.
