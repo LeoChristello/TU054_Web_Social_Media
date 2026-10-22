@@ -1,0 +1,15 @@
+******************************************
+    LAB 04
+******************************************
+
+Q1: What happened to your heading with fixed-top ? Why do you think we use sticky-top ?
+The nav bar stayed at the top of the screen, but the body content did not leave space for it, so some content could appear behind it. We use sticky-top to keep the element at the top when scrolling so that it can be directly accessed no matter how much we scroll within the page.
+
+Q2: Why is 85% better than 100% for visitors?
+Because visitors can see part of the next image, making it clear that there are more images they can scroll through.
+
+Q3: What does scroll-snap-type do?
+It makes scrolling stop at specific positions, so the images align properly in the container instead of stopping halfway between images.
+
+Q4: What happened without width: 100% ? Why?
+Without it, the video could keep its default size and become wider than its container, allowing visitors to scroll sideways. Setting width: 100% makes the video fit the available width of its container.
