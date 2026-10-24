@@ -1,4 +1,0 @@
-1.  I used weight 700 syne instead of 800, that's ok?
-2.  h1 font-size: 3.5rem OR height 3.5rem?
-3.  icons are not being underlined, text yes.
-4.  (My tasks - <i> already inside h3 so no need) Keep them the same size as the text. Hint: these aren't logos, so in the search, choose the Solid style instead of Brands. Give them a class so you can style them.
